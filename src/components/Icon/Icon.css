@@ -1,0 +1,23 @@
+.icon {
+    color: #333; 
+    transition: color 0.3s ease;
+}
+
+.icon.circle {
+    color: blue;
+    font-size: 5rem;
+}
+
+.icon.cross {
+    color: red; 
+    font-size: 6rem;
+}
+
+.icon.pen {
+    color: #ffffff; 
+    font-size: 4rem;
+}
+
+.icon:hover {
+    color: #fefefe; 
+}
